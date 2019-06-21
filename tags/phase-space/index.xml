@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phase Space on Complexity Methods for Behavioural Science</title>
+    <link>/tags/phase-space/</link>
+    <description>Recent content in Phase Space on Complexity Methods for Behavioural Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    
+	<atom:link href="/tags/phase-space/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 1 schedule</title>
+      <link>/days/day1/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/days/day1/</guid>
+      <description>Today&amp;rsquo;s Topics:  Welcome!  How to get started with Complexity Methods for the Behavioural Sciences  Introduction to Complexity Science Introduction to the mathematics of change:  Growth models Coupled dynamics Demystifying deterministic chaos
+   Tentative time table for Day 1    When What Who Topics Notes     09.30-11.00 Opening Event  Prof. Dr. Paul Hendriks, Dean of the Nijmegen School of Management; Group Picture Location: Aula, Comeniuslaan 2   11.</description>
+    </item>
+    
+    <item>
+      <title>Day 3 schedule</title>
+      <link>/days/day3/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/days/day3/</guid>
+      <description>Today&amp;rsquo;s Topics:  Delay-embedding State space reconstruction Recurrence Quantification Analysis Early warning signals of phase transitions
+  Tentative time table for Day 3    When What Who Topics Notes     09.00-10.30 Quantifying temporal patterns in unordered categorical time series data FH Auto-RQA    10.30-11.00 Coffee/Tea      11.00-12.00 Assignments: Categorical RQA; Surrogate analysis X Children&amp;rsquo;s Stories      12.</description>
+    </item>
+    
+  </channel>
+</rss>
