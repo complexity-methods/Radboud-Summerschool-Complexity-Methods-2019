@@ -7,28 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 21 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/day1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Introduction to the Mathematics of Change</title>
-      <link>/days/day1/moc/</link>
-      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/days/day1/moc/</guid>
-      <description>Slides Download slide .Rmd
-Activities The simplest non-trivial iterative change process can be described by the following difference equation:
-$$Y_{t+1} = Y_{t=0} + a*Y_t$$
-The equation describes the way in which the value of \(Y\) changes between two adjacent, discrete moments in time (hence the term difference equation, or recurrence relation). There are two parameters resembling an intercept and a slope:
- The starting value \(Y_0\) at \(t=0\), also called the starting value, or the initial conditions.</description>
-    </item>
-    
-    <item>
       <title>Day 1 schedule</title>
       <link>/days/day1/</link>
-      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/days/day1/</guid>
       <description>Today&amp;rsquo;s Topics:  Welcome!  How to get started with Complexity Methods for the Behavioural Sciences  Introduction to Complexity Science Introduction to the mathematics of change:  Growth models Coupled dynamics Demystifying deterministic chaos

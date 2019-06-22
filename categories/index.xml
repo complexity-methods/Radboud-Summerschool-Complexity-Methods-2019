@@ -7,7 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 21 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,36 +14,9 @@
     <item>
       <title>Day1</title>
       <link>/categories/day1/</link>
-      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/categories/day1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alan variance</title>
-      <link>/categories/alan-variance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/alan-variance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clustering</title>
-      <link>/categories/clustering/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/clustering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Correlation Functions</title>
-      <link>/categories/correlation-functions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/correlation-functions/</guid>
       <description></description>
     </item>
     
@@ -76,65 +48,11 @@
     </item>
     
     <item>
-      <title>Detrended Fluctuation Analysis</title>
-      <link>/categories/detrended-fluctuation-analysis/</link>
+      <title>day2</title>
+      <link>/categories/day2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/detrended-fluctuation-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ergodicity</title>
-      <link>/categories/ergodicity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/ergodicity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fractal Dimension</title>
-      <link>/categories/fractal-dimension/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/fractal-dimension/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Relative Roughness</title>
-      <link>/categories/relative-roughness/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/relative-roughness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sample Entropy</title>
-      <link>/categories/sample-entropy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/sample-entropy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Standardised Dispersion Analysis</title>
-      <link>/categories/standardised-dispersion-analysis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/standardised-dispersion-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Surrogate analysis</title>
-      <link>/categories/surrogate-analysis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/surrogate-analysis/</guid>
+      <guid>/categories/day2/</guid>
       <description></description>
     </item>
     
