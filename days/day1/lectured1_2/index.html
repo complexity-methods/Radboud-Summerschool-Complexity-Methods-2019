@@ -16,10 +16,10 @@
     
   
   <meta name="description" content="Slides Download slide .Rmd
-Activities The simplest non-trivial iterative change process can be described by the following difference equation:
-$$Y_{t&#43;1} = Y_{t=0} &#43; a*Y_t$$
+ Activities The simplest non-trivial iterative change process can be described by the following difference equation:
+\[Y_{t&#43;1} = Y_{t=0} &#43; a*Y_t\]
 The equation describes the way in which the value of \(Y\) changes between two adjacent, discrete moments in time (hence the term difference equation, or recurrence relation). There are two parameters resembling an intercept and a slope:
- The starting value \(Y_0\) at \(t=0\), also called the starting value, or the initial conditions.">
+The starting value \(Y_0\) at \(t=0\), also called the starting value, or the initial conditions.">
 
   
   <link rel="alternate" hreflang="en-us" href="/days/day1/lectured1_2/">
@@ -101,19 +101,19 @@ The equation describes the way in which the value of \(Y\) changes between two a
   <meta property="og:url" content="/days/day1/lectured1_2/">
   <meta property="og:title" content="Introduction to the Mathematics of Change | Complexity Methods for Behavioural Science">
   <meta property="og:description" content="Slides Download slide .Rmd
-Activities The simplest non-trivial iterative change process can be described by the following difference equation:
-$$Y_{t&#43;1} = Y_{t=0} &#43; a*Y_t$$
+ Activities The simplest non-trivial iterative change process can be described by the following difference equation:
+\[Y_{t&#43;1} = Y_{t=0} &#43; a*Y_t\]
 The equation describes the way in which the value of \(Y\) changes between two adjacent, discrete moments in time (hence the term difference equation, or recurrence relation). There are two parameters resembling an intercept and a slope:
- The starting value \(Y_0\) at \(t=0\), also called the starting value, or the initial conditions.">
+The starting value \(Y_0\) at \(t=0\), also called the starting value, or the initial conditions.">
   
   
     
-  <meta property="og:image" content="/img/bandthree2.png">
+  <meta property="og:image" content="/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2019-06-22T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2019-06-23T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2019-06-22T00:00:00&#43;00:00">
+  <meta property="article:modified_time" content="2019-06-23T00:00:00&#43;00:00">
   
 
   
@@ -370,30 +370,6 @@ The equation describes the way in which the value of \(Y\) changes between two a
     </div>
 
     
-    <div class="d-none d-xl-block col-xl-2 docs-toc">
-      
-      <p class="docs-toc-title">On this page</p>
-      
-
-      <nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li><a href="#slides">Slides</a></li>
-<li><a href="#activity">Activities</a></li>
-<li><a href="#it-s-a-line-it-s-a-plane"><strong>It&rsquo;s a line! It&rsquo;s a plane!</strong></a></li>
-<li><a href="#no-it-s-a-time-series"><strong>No! &hellip; It&rsquo;s a time series!</strong></a></li>
-</ul></li>
-</ul>
-</nav>
-
-      <ul class="nav toc-top">
-        <li><a href="#">Back to top</a></li>
-      </ul>
-
-      
-    </div>
-    
 
     <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
       <div id="search-hits">
@@ -407,75 +383,56 @@ The equation describes the way in which the value of \(Y\) changes between two a
           <div class="article-style" itemprop="articleBody">
             
 
-<h2 id="slides">Slides</h2>
 
+<div id="slides" class="section level2">
+<h2>Slides</h2>
 <p><a href="../../../slides/blogdown.Rmd">Download slide .Rmd</a></p>
-
-<h2 id="activity">Activities</h2>
-
+</div>
+<div id="activity" class="section level2">
+<h2>Activities</h2>
 <p>The simplest non-trivial <em>iterative change process</em> can be described by the following <em>difference equation</em>:</p>
-
-<p><code>$$Y_{t+1} = Y_{t=0} + a*Y_t$$</code></p>
-
-<p>The equation describes the way in which the value of <code>\(Y\)</code> changes <a href="https://en.wikipedia.org/wiki/Discrete_time_and_continuous_time" target="_blank">between two adjacent, <strong>discrete</strong> moments in time</a>
-(hence the term <a href="https://en.wikipedia.org/wiki/Recurrence_relation" target="_blank">difference equation, or recurrence relation</a>). There are two parameters resembling an intercept and a slope:</p>
-
-<ol>
-<li>The starting value <code>\(Y_0\)</code> at <code>\(t=0\)</code>, also called the <em>starting value</em>, or the <em>initial conditions</em>.</li>
-<li>A rule for incrementing time, here the change in <code>\(Y\)</code> takes place over a discrete time step of 1: <code>\(t+1\)</code>.<br />
-<br /></li>
+<p><span class="math display">\[Y_{t+1} = Y_{t=0} + a*Y_t\]</span></p>
+<p>The equation describes the way in which the value of <span class="math inline">\(Y\)</span> changes <a href="https://en.wikipedia.org/wiki/Discrete_time_and_continuous_time">between two adjacent, <strong>discrete</strong> moments in time</a>
+(hence the term <a href="https://en.wikipedia.org/wiki/Recurrence_relation">difference equation, or recurrence relation</a>). There are two parameters resembling an intercept and a slope:</p>
+<ol style="list-style-type: decimal">
+<li>The starting value <span class="math inline">\(Y_0\)</span> at <span class="math inline">\(t=0\)</span>, also called the <em>starting value</em>, or the <em>initial conditions</em>.</li>
+<li>A rule for incrementing time, here the change in <span class="math inline">\(Y\)</span> takes place over a discrete time step of 1: <span class="math inline">\(t+1\)</span>.</li>
 </ol>
-
-<p>The values taken on by variable <code>\(Y\)</code> are considered to represent the states  quantifiable observable  alternative ways to describe the change of states :</p>
-
+<p>The values taken on by variable <span class="math inline">\(Y\)</span> are considered to represent the states quantifiable observable alternative ways to describe the change of states :</p>
 <ul>
 <li>A dynamical rule describing the propagation of the states of a system observable measured by the values of variable <code>Y</code> through discrete time.</li>
-<li>A dynamic law describing the time-evolution of the states of a system observable measured by the variable <code>Y</code>.<br />
-<br /></li>
+<li>A dynamic law describing the time-evolution of the states of a system observable measured by the variable <code>Y</code>.</li>
 </ul>
-
 <p>These descriptions all refer to the change processes that govern system observables (properties of dynamical systems that can be observed through measurement).</p>
-
-<h2 id="it-s-a-line-it-s-a-plane"><strong>It&rsquo;s a line! It&rsquo;s a plane!</strong></h2>
-
-<p>The formula resembles the equation of a line. There is a constant value <code>\(Y_{0}\)</code> which is added to a proportion of the value of <code>\(Y\)</code> at time <code>\(t\)</code>, given by parameter <code>\(a\)</code>. This is equivalent to the slope of a line. However, in a <code>\((X,Y)\)</code> plane there are two &lsquo;spatial&rsquo; (metric) dimensions representing the values two variables <code>\(X\)</code> and <code>\(Y\)</code> can take on (see figure).</p>
-
+</div>
+<div id="its-a-line-its-a-plane" class="section level2">
+<h2><strong>It’s a line! It’s a plane!</strong></h2>
+<p>The formula resembles the equation of a line. There is a constant value <span class="math inline">\(Y_{0}\)</span> which is added to a proportion of the value of <span class="math inline">\(Y\)</span> at time <span class="math inline">\(t\)</span>, given by parameter <span class="math inline">\(a\)</span>. This is equivalent to the slope of a line. However, in a <span class="math inline">\((X,Y)\)</span> plane there are two ‘spatial’ (metric) dimensions representing the values two variables <span class="math inline">\(X\)</span> and <span class="math inline">\(Y\)</span> can take on (see figure).</p>
 <p><img src="/days/day1/lectureD1_2_files/figure-html/unnamed-chunk-3-1.png" width="672" /></p>
-
-<p>The best fitting straight line would be called a statistical model of the linear relationship between the observed values of <code>\(X\)</code> and <code>\(Y\)</code>. It can be obtained by fitting a General Linear Model (GLM) to the data. If <code>\(X\)</code> were to represent repeated measurements the multivariate GLM for repeated measures would have to be fitted to the data. This can be very problematic, because statistical models rely on <a href="https://en.wikipedia.org/wiki/Ergodic_theory" target="_blank">Ergodic theory</a>:</p>
-
+<p>The best fitting straight line would be called a statistical model of the linear relationship between the observed values of <span class="math inline">\(X\)</span> and <span class="math inline">\(Y\)</span>. It can be obtained by fitting a General Linear Model (GLM) to the data. If <span class="math inline">\(X\)</span> were to represent repeated measurements the multivariate GLM for repeated measures would have to be fitted to the data. This can be very problematic, because statistical models rely on <a href="https://en.wikipedia.org/wiki/Ergodic_theory">Ergodic theory</a>:</p>
 <blockquote>
-<p>&rdquo;&hellip; it is the study of the long term average behavior of systems evolving in time.&rdquo;</p>
+<p>“… it is the study of the long term average behavior of systems evolving in time.”</p>
 </blockquote>
-
 <p>need to assume independence of measurements within and between subjects. These assumptions can be translated to certain conditions that must hold for the model to be valid, known as <em>Compound Symmetry</em> and <em>Sphericity</em>:</p>
-
 <blockquote>
-<p>The compound symmetry assumption requires that the variances (pooled within-group) and covariances (across subjects) of the different repeated measures are homogeneous (identical). This is a sufficient condition for the univariate F test for repeated measures to be valid (i.e., for the reported F values to actually follow the F distribution). However, it is not a necessary condition. The sphericity assumption is a necessary and sufficient condition for the F test to be valid; it states that the within-subject &ldquo;model&rdquo; consists of independent (orthogonal) components. The nature of these assumptions, and the effects of violations are usually not well-described in ANOVA textbooks; [^assumptions]</p>
+<p>The compound symmetry assumption requires that the variances (pooled within-group) and covariances (across subjects) of the different repeated measures are homogeneous (identical). This is a sufficient condition for the univariate F test for repeated measures to be valid (i.e., for the reported F values to actually follow the F distribution). However, it is not a necessary condition. The sphericity assumption is a necessary and sufficient condition for the F test to be valid; it states that the within-subject “model” consists of independent (orthogonal) components. The nature of these assumptions, and the effects of violations are usually not well-described in ANOVA textbooks; [^assumptions]</p>
 </blockquote>
-
-<p>As you can read in the quoted text above, these conditions must hold in order to be able to identify unique independent components as the sources of variation of <code>\(Y\)</code> over time within a subject. This is the a clear example of:</p>
-
-<p>If you choose to use GLM repeated measures to model change over time, you will only be able to infer independent components that are responsible for the time-evolution of <code>\(Y\)</code>. As is hinted in the last sentence of the quote, the validity of such inferences is not a common topic of discussion statistics textbooks.</p>
-
-<h2 id="no-it-s-a-time-series"><strong>No! &hellip; It&rsquo;s a time series!</strong></h2>
-
-<p>The important difference between a regular 2-dimensional Euclidean plane and the space in which we model change processes is that the <code>\(X\)</code>-axis represents the physical dimension <strong>time</strong>. In the case of the Linear Map we have a 1D space with one &lsquo;spatial&rsquo; dimension <code>\(Y\)</code> and a time dimension <code>\(t\)</code>. This  is called time series if <code>\(Y\)</code> is sampled as a continuous process, or a trial series if the time between subsequent observations is not relevant, just the fact that there was a temporal order (for example, a series of response latencies to trials in a psychological experiment in the order in which they were presented to the subject).</p>
-
+<p>As you can read in the quoted text above, these conditions must hold in order to be able to identify unique independent components as the sources of variation of <span class="math inline">\(Y\)</span> over time within a subject. This is the a clear example of:</p>
+<p>If you choose to use GLM repeated measures to model change over time, you will only be able to infer independent components that are responsible for the time-evolution of <span class="math inline">\(Y\)</span>. As is hinted in the last sentence of the quote, the validity of such inferences is not a common topic of discussion statistics textbooks.</p>
+</div>
+<div id="no-its-a-time-series" class="section level2">
+<h2><strong>No! … It’s a time series!</strong></h2>
+<p>The important difference between a regular 2-dimensional Euclidean plane and the space in which we model change processes is that the <span class="math inline">\(X\)</span>-axis represents the physical dimension <strong>time</strong>. In the case of the Linear Map we have a 1D space with one ‘spatial’ dimension <span class="math inline">\(Y\)</span> and a time dimension <span class="math inline">\(t\)</span>. This is called time series if <span class="math inline">\(Y\)</span> is sampled as a continuous process, or a trial series if the time between subsequent observations is not relevant, just the fact that there was a temporal order (for example, a series of response latencies to trials in a psychological experiment in the order in which they were presented to the subject).</p>
 <p><img src="/days/day1/lectureD1_2_files/figure-html/unnamed-chunk-5-1.png" width="672" /></p>
-
-<p>Time behaves different from a spatial dimension in that it is directional (time cannot be reversed), it cannot take on negative values, and, unless one is dealing with a truly random process, there will be a temporal correlation across one or more values of <code>\(Y\)</code> separated by an amount of time. In the linear difference equation this occurs because each value one step in the future is calculated based on the current value. If the values of <code>\(Y\)</code> represent an observable of a dynamical system, the system can be said to have a history, or a memory.</p>
-
+<p>Time behaves different from a spatial dimension in that it is directional (time cannot be reversed), it cannot take on negative values, and, unless one is dealing with a truly random process, there will be a temporal correlation across one or more values of <span class="math inline">\(Y\)</span> separated by an amount of time. In the linear difference equation this occurs because each value one step in the future is calculated based on the current value. If the values of <span class="math inline">\(Y\)</span> represent an observable of a dynamical system, the system can be said to have a history, or a memory.</p>
 <p>Ergodic systems do <em>not</em> have a history or a memory that extends across more than one time step. This is very convenient, because one can calculate the expected value of a system observable given infinite time, by making use of of the laws of probabilities of random events (or random fields). This means: The average of an observable of an Ergodic system measured across infinite time (its entire history, the <strong>time-average</strong>), will be the be the same value as the average of this observable measured at one instance in time, but in an infinite amount of systems of the same kind (the population, the <strong>spatial average</strong>) [^dice].</p>
-
-<p>The simple linear difference equation will have a form of <em>perfect memory</em> across the smallest time scale (i.e., the increment of 1, <code>\(t+1\)</code>). This &lsquo;memory&rsquo; just concerns a correlation of 1 between values at adjacent time points (a short range temporal correlation, SRC), because the change from <code>\(Y_t\)</code> to <code>\(Y_{t+1}\)</code> is exactly equal to <code>\(a * Y_t\)</code> at each iteration step. This is the meaning of deterministic, not that each value of <code>\(Y\)</code> is the same, but that the value of <code>\(Y\)</code> now can be perfectly explained form the value of <code>\(Y\)</code> one moment in the past.</p>
-
-<p>Summarising, the most profound difference is not the fact that the equation of linear change is a deterministic model and the GLM is a probabilistic model with parameters fitted from data, this is something we can (and will) do for <code>\(a\)</code> as well. The profound difference between the models is the role given to the passage of time:</p>
-
+<p>The simple linear difference equation will have a form of <em>perfect memory</em> across the smallest time scale (i.e., the increment of 1, <span class="math inline">\(t+1\)</span>). This ‘memory’ just concerns a correlation of 1 between values at adjacent time points (a short range temporal correlation, SRC), because the change from <span class="math inline">\(Y_t\)</span> to <span class="math inline">\(Y_{t+1}\)</span> is exactly equal to <span class="math inline">\(a * Y_t\)</span> at each iteration step. This is the meaning of deterministic, not that each value of <span class="math inline">\(Y\)</span> is the same, but that the value of <span class="math inline">\(Y\)</span> now can be perfectly explained form the value of <span class="math inline">\(Y\)</span> one moment in the past.</p>
+<p>Summarising, the most profound difference is not the fact that the equation of linear change is a deterministic model and the GLM is a probabilistic model with parameters fitted from data, this is something we can (and will) do for <span class="math inline">\(a\)</span> as well. The profound difference between the models is the role given to the passage of time:</p>
 <ul>
-<li>The linear difference equation represents changes in <code>\(Y\)</code> as a function of the physical dimension <em>time</em> and <code>\(Y\)</code> itself.</li>
-<li>The GLM represents changes in <code>\(Y\)</code> as a function of a <a href="https://en.wikipedia.org/wiki/Linear_predictor_function" target="_blank">linear predictor</a> composed of additive components that can be regarded as independent sources of variation that sum up to the observed values of <code>\(Y\)</code>.</li>
+<li>The linear difference equation represents changes in <span class="math inline">\(Y\)</span> as a function of the physical dimension <em>time</em> and <span class="math inline">\(Y\)</span> itself.</li>
+<li>The GLM represents changes in <span class="math inline">\(Y\)</span> as a function of a <a href="https://en.wikipedia.org/wiki/Linear_predictor_function">linear predictor</a> composed of additive components that can be regarded as independent sources of variation that sum up to the observed values of <span class="math inline">\(Y\)</span>.</li>
 </ul>
+</div>
 
           </div>
 
@@ -484,7 +441,7 @@ The equation describes the way in which the value of \(Y\) changes between two a
         </div>
 
         <div class="body-footer">
-          Last updated on 22-06-2019
+          Last updated on 2019-06-23
         </div>
 
       </article>

@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Auto-RQA</title>
+      <link>/tags/auto-rqa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/auto-rqa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bifurcation Diagram</title>
       <link>/tags/bifurcation-diagram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -89,6 +98,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/cross-rqa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delay Embedding</title>
+      <link>/tags/delay-embedding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/delay-embedding/</guid>
       <description></description>
     </item>
     
@@ -246,6 +264,15 @@
     </item>
     
     <item>
+      <title>Phase-space reconstruction</title>
+      <link>/tags/phase-space-reconstruction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/phase-space-reconstruction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Recurence Networks</title>
       <link>/tags/recurence-networks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -350,6 +377,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/synergetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Takens&#39; theorem</title>
+      <link>/tags/takens-theorem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/takens-theorem/</guid>
       <description></description>
     </item>
     
