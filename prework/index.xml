@@ -12,6 +12,22 @@
     
     
     <item>
+      <title>Prepare for R</title>
+      <link>/prework/prep_r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/prework/prep_r/</guid>
+      <description>The only R skills you really need to complete the assignments in this course are:
+1. install and load packages
+2. run R code from a script (e.g. after copy-pasting)
+If you want a little, or, a lot more, in the course book, you can find some pages on getting started with R:
+ New to R
+ Links to tutorials
+ Not so new to R
+  Especially the following two paragraphs might be helpful:</description>
+    </item>
+    
+    <item>
       <title>Recommendation Station</title>
       <link>/prework/rec_station/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
