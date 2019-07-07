@@ -18,8 +18,7 @@
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/days/day1/lectured1_0/</guid>
-      <description> Slides Download slides
- </description>
+      <description> Slides [Download slides]() </description>
     </item>
     
     <item>
@@ -28,8 +27,8 @@
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/days/day1/lectured1_1/</guid>
-      <description> Slides Download slide
- Literature  Chapter II of Thelen &amp;amp; Ulrich (1991) provides a great overview of many of the topics discussed during the lecture.  Thelen, E., &amp;amp; Ulrich, B. D. (1991). Hidden skills: A dynamic systems analysis of treadmill stepping during the first year. Monographs of the Society for Research in Child Devevelopment, 56(1), 1-98; discussion 99-104. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/1922136    </description>
+      <description> Slides [Download slide]()
+Literature  Chapter II of Thelen &amp;amp; Ulrich (1991) provides a great overview of many of the topics discussed during the lecture.  Thelen, E., &amp;amp; Ulrich, B. D. (1991). Hidden skills: A dynamic systems analysis of treadmill stepping during the first year. Monographs of the Society for Research in Child Devevelopment, 56(1), 1-98; discussion 99-104. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/1922136    Digging deeper  See the recommended books on complexity  </description>
     </item>
     
     <item>
@@ -39,9 +38,10 @@
       
       <guid>/days/day1/assignmentsd1_1/</guid>
       <description> Slides Download slides
- Assignments  Growth models and deterministic chaos
+Assignments  Growth models and deterministic chaos
  EXTRA: Coupled systems
-   </description>
+ EXTRA: Fitting parameters to analytic solutions of growth models
+  </description>
     </item>
     
     <item>
@@ -50,10 +50,10 @@
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/days/day1/lectured1_2/</guid>
-      <description> Slides Download slide
- Literature  Chapter 3 explains some of the basics of difference and differential equations.
- More detailed explanations can be found in Kaplan, D., &amp;amp; Glass, L. (2012). Understanding nonlinear dynamics. Springer Science &amp;amp; Business Media.
-   </description>
+      <description>Slides [Download slide]()
+Literature  Chapter 3 of the course book explains some of the basics of difference and differential equations and how to simulate them.
+ More detailed information and (formal) explanations about nonlinear phenomena can be found in:
+ Kaplan, D., &amp;amp; Glass, L. (2012). Understanding nonlinear dynamics. Springer Science &amp;amp; Business Media.    Digging deeper  This series on Differential Equations is excellent, but also expecting some background knowledge.</description>
     </item>
     
   </channel>
