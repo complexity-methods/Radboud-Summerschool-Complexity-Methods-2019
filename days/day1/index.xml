@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Day 1 schedule on Complexity Methods for Behavioural Science</title>
-    <link>/days/day1/</link>
+    <link>https://complexity-methods.github.io/days/day1/</link>
     <description>Recent content in Day 1 schedule on Complexity Methods for Behavioural Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/days/day1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://complexity-methods.github.io/days/day1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introduction to the Course</title>
-      <link>/days/day1/lectured1_0/</link>
+      <link>https://complexity-methods.github.io/days/day1/lectured1_0/</link>
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/days/day1/lectured1_0/</guid>
+      <guid>https://complexity-methods.github.io/days/day1/lectured1_0/</guid>
       <description> Slides [Download slides]() </description>
     </item>
     
     <item>
       <title>Introduction to Complexity Science</title>
-      <link>/days/day1/lectured1_1/</link>
+      <link>https://complexity-methods.github.io/days/day1/lectured1_1/</link>
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/days/day1/lectured1_1/</guid>
+      <guid>https://complexity-methods.github.io/days/day1/lectured1_1/</guid>
       <description> Slides [Download slide]()
 Literature  Chapter II of Thelen &amp;amp; Ulrich (1991) provides a great overview of many of the topics discussed during the lecture.  Thelen, E., &amp;amp; Ulrich, B. D. (1991). Hidden skills: A dynamic systems analysis of treadmill stepping during the first year. Monographs of the Society for Research in Child Devevelopment, 56(1), 1-98; discussion 99-104. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/1922136    Digging deeper  See the recommended books on complexity  </description>
     </item>
     
     <item>
       <title>Assignments Mathemathics of Change</title>
-      <link>/days/day1/assignmentsd1_1/</link>
+      <link>https://complexity-methods.github.io/days/day1/assignmentsd1_1/</link>
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/days/day1/assignmentsd1_1/</guid>
+      <guid>https://complexity-methods.github.io/days/day1/assignmentsd1_1/</guid>
       <description> Slides Download slides
 Assignments  Growth models and deterministic chaos
  EXTRA: Coupled systems
@@ -46,10 +46,10 @@ Assignments  Growth models and deterministic chaos
     
     <item>
       <title>Introduction to the Mathematics of Change</title>
-      <link>/days/day1/lectured1_2/</link>
+      <link>https://complexity-methods.github.io/days/day1/lectured1_2/</link>
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/days/day1/lectured1_2/</guid>
+      <guid>https://complexity-methods.github.io/days/day1/lectured1_2/</guid>
       <description>Slides [Download slide]()
 Literature  Chapter 3 of the course book explains some of the basics of difference and differential equations and how to simulate them.
  More detailed information and (formal) explanations about nonlinear phenomena can be found in:
