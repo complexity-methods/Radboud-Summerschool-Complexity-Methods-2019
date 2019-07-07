@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/days/day1/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Introduction to the Course</title>
       <link>/days/day1/lectured1_0/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/days/day1/lectured1_0/</guid>
       <description> Slides Download slides
@@ -25,7 +25,7 @@
     <item>
       <title>Introduction to Complexity Science</title>
       <link>/days/day1/lectured1_1/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/days/day1/lectured1_1/</guid>
       <description> Slides Download slide
@@ -35,7 +35,7 @@
     <item>
       <title>Assignments Mathemathics of Change</title>
       <link>/days/day1/assignmentsd1_1/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/days/day1/assignmentsd1_1/</guid>
       <description> Slides Download slides
@@ -47,10 +47,10 @@
     <item>
       <title>Introduction to the Mathematics of Change</title>
       <link>/days/day1/lectured1_2/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/days/day1/lectured1_2/</guid>
-      <description> Slides Download slide .Rmd
+      <description> Slides Download slide
  Literature  Chapter 3 explains some of the basics of difference and differential equations.
  More detailed explanations can be found in Kaplan, D., &amp;amp; Glass, L. (2012). Understanding nonlinear dynamics. Springer Science &amp;amp; Business Media.
    </description>

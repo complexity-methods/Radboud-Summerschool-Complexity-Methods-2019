@@ -6,13 +6,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Introduction to the Course</title>
       <link>/days/day1/lectured1_0/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/days/day1/lectured1_0/</guid>
       <description>
@@ -151,7 +151,7 @@
     <item>
       <title>Introduction to Complexity Science</title>
       <link>/days/day1/lectured1_1/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/days/day1/lectured1_1/</guid>
       <description>
@@ -230,7 +230,7 @@
 
 &lt;p&gt;&lt;img src=&#34;/people/anna.png&#34; alt=&#34;AL&#34; style=&#34;float:right;width:100px&#34;/&gt; &lt;a href=&#34;https://www.ru.nl/english/people/lichtwarck-aschoff-a/&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;I am born in the southern part of Germany and moved all the way up to the northern part of the Netherlands to study psychology in Groningen. I received my PhD from the University of Groningen at the department of Developmental Psychology in 2008. Currently, I am working as an assistant professor at the Radboud University Nijmegen in the research program Developmental Psychopathology. Generally, I am not so interested in whether certain interventions work but how they work. That is, I am mainly focusing on underlying processes and mechanisms of change across diagnostic categories and different treatment modalities. Eventually I hope that by understanding individual processes of change we will be able to personalize and tailor treatments to the specific needs of clients. My interest in game interventions is mainly driven by the fact that they allow us to gather fine-grained data on how individuals change across game play. Moreover, I find it inspiring to work with game developers. Although coming from very different backgrounds the linking pin for me is the explicit translation of a theory about how humans behave and change into mechanisms (or game mechanics).&lt;br /&gt;
+&lt;p&gt;I am born in the southern part of Germany and moved all the way up to the northern part of the Netherlands to study psychology in Groningen. I received my PhD from the University of Groningen at the department of Developmental Psychology in 2008. Currently, I am working as an assistant professor in the research program Developmental Psychopathology. Generally, I am not so interested in whether certain interventions work but how they work. That is, I am mainly focusing on general processes and mechanisms of change informed by non-linear dynamic systems theories across diagnostic categories and different treatment modalities. Eventually I hope that by understanding individual processes of change we will be able to personalize and tailor treatments to the specific and changing needs of individual clients.
 &lt;/br&gt;&lt;br /&gt;
 &lt;/br&gt;&lt;/p&gt;
 
@@ -297,7 +297,7 @@ Isabela Granic&lt;/p&gt;
     <item>
       <title>Assignments Mathemathics of Change</title>
       <link>/days/day1/assignmentsd1_1/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/days/day1/assignmentsd1_1/</guid>
       <description>
@@ -320,11 +320,10 @@ Isabela Granic&lt;/p&gt;
     <item>
       <title>Assignments Day 2</title>
       <link>/days/day2/assignmentsd2_1/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/days/day2/assignmentsd2_1/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 &lt;div id=&#34;TOC&#34;&gt;
 true
@@ -332,95 +331,13 @@ true
 
 &lt;div id=&#34;slides&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Slides&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;../../../slides/bookdown.Rmd&#34;&gt;Download slide .Rmd&lt;/a&gt;&lt;/p&gt;
-&lt;table class=&#34;table table-hover table-condensed&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:left;&#34;&gt;
-Key Slides
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#1&#34; style=&#34;     &#34;&gt;Full slide deck 🖼&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#outline&#34; style=&#34;     &#34;&gt;Outline 🗒&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#start&#34; style=&#34;     &#34;&gt;Get started ☁️ or 💻&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#publish&#34; style=&#34;     &#34;&gt;Publishing 🚀&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;Download slides&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;activity&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Activities&lt;/h2&gt;
-&lt;table class=&#34;table table-hover table-condensed&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:left;&#34;&gt;
-Activity
-&lt;/th&gt;
-&lt;th style=&#34;text-align:left;&#34;&gt;
-Time
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn1&#34; style=&#34;     &#34;&gt;📩 Your turn #1: Edit your index.Rmd YAML&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-🕗 03:00 minutes
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn2&#34; style=&#34;     &#34;&gt;📩 Your turn #2: Add new YAML metadata tags to your index.Rmd&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-🕗 03:00 minutes
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn3&#34; style=&#34;     &#34;&gt;📩 Your turn #3: Add/edit chapters in your book&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-🕗 10:00 minutes
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn4&#34; style=&#34;     &#34;&gt;📩 Your turn #4: Change how your sidebar TOC looks &amp;amp; works&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-🕗 05:00 minutes
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn5&#34; style=&#34;     &#34;&gt;📩 Your turn #5: Tune the book output &amp;amp; publish&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-🕗 15:00 minutes
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+&lt;div id=&#34;assignments&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Assignments&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://darwin.pwo.ru.nl/skunkworks/courseware/1819_CMBS/assignments/ASSIGNMENTS_D2_basicTSA.html&#34;&gt;Basic linear and nonlinear time series analysis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -428,117 +345,9 @@ Time
     <item>
       <title>Assignments Day 3</title>
       <link>/days/day3/assignmentsd3_1/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/days/day3/assignmentsd3_1/</guid>
-      <description>
-&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
-
-&lt;div id=&#34;TOC&#34;&gt;
-true
-&lt;/div&gt;
-
-&lt;div id=&#34;slides&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Slides&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;../../../slides/bookdown.Rmd&#34;&gt;Download slide .Rmd&lt;/a&gt;&lt;/p&gt;
-&lt;table class=&#34;table table-hover table-condensed&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:left;&#34;&gt;
-Key Slides
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#1&#34; style=&#34;     &#34;&gt;Full slide deck 🖼&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#outline&#34; style=&#34;     &#34;&gt;Outline 🗒&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#start&#34; style=&#34;     &#34;&gt;Get started ☁️ or 💻&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#publish&#34; style=&#34;     &#34;&gt;Publishing 🚀&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-&lt;div id=&#34;activity&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Activities&lt;/h2&gt;
-&lt;table class=&#34;table table-hover table-condensed&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:left;&#34;&gt;
-Activity
-&lt;/th&gt;
-&lt;th style=&#34;text-align:left;&#34;&gt;
-Time
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn1&#34; style=&#34;     &#34;&gt;📩 Your turn #1: Edit your index.Rmd YAML&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-🕧 03:00 minutes
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn2&#34; style=&#34;     &#34;&gt;📩 Your turn #2: Add new YAML metadata tags to your index.Rmd&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-🕧 03:00 minutes
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn3&#34; style=&#34;     &#34;&gt;📩 Your turn #3: Add/edit chapters in your book&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-🕧 10:00 minutes
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn4&#34; style=&#34;     &#34;&gt;📩 Your turn #4: Change how your sidebar TOC looks &amp;amp; works&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-🕧 05:00 minutes
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn5&#34; style=&#34;     &#34;&gt;📩 Your turn #5: Tune the book output &amp;amp; publish&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-🕧 15:00 minutes
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Assignments Day 4</title>
-      <link>/days/day4/assignmentsd4_1/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/days/day4/assignmentsd4_1/</guid>
       <description>
 &lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
@@ -600,7 +409,7 @@ Time
 &lt;a href=&#34;../../../slides/bookdown.html#yourturn1&#34; style=&#34;     &#34;&gt;📩 Your turn #1: Edit your index.Rmd YAML&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕟 03:00 minutes
+🕣 03:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -608,7 +417,7 @@ Time
 &lt;a href=&#34;../../../slides/bookdown.html#yourturn2&#34; style=&#34;     &#34;&gt;📩 Your turn #2: Add new YAML metadata tags to your index.Rmd&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕟 03:00 minutes
+🕣 03:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -616,7 +425,7 @@ Time
 &lt;a href=&#34;../../../slides/bookdown.html#yourturn3&#34; style=&#34;     &#34;&gt;📩 Your turn #3: Add/edit chapters in your book&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕟 10:00 minutes
+🕣 10:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -624,7 +433,7 @@ Time
 &lt;a href=&#34;../../../slides/bookdown.html#yourturn4&#34; style=&#34;     &#34;&gt;📩 Your turn #4: Change how your sidebar TOC looks &amp;amp; works&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕟 05:00 minutes
+🕣 05:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -632,7 +441,7 @@ Time
 &lt;a href=&#34;../../../slides/bookdown.html#yourturn5&#34; style=&#34;     &#34;&gt;📩 Your turn #5: Tune the book output &amp;amp; publish&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕟 15:00 minutes
+🕣 15:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -642,11 +451,11 @@ Time
     </item>
     
     <item>
-      <title>Assignments Day 5</title>
-      <link>/days/day5/assignmentsd5_1/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <title>Assignments Day 4</title>
+      <link>/days/day4/assignmentsd4_1/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/days/day5/assignmentsd5_1/</guid>
+      <guid>/days/day4/assignmentsd4_1/</guid>
       <description>
 &lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
@@ -708,7 +517,7 @@ Time
 &lt;a href=&#34;../../../slides/bookdown.html#yourturn1&#34; style=&#34;     &#34;&gt;📤 Your turn #1: Edit your index.Rmd YAML&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕗 03:00 minutes
+🕙 03:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -716,7 +525,7 @@ Time
 &lt;a href=&#34;../../../slides/bookdown.html#yourturn2&#34; style=&#34;     &#34;&gt;📤 Your turn #2: Add new YAML metadata tags to your index.Rmd&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕗 03:00 minutes
+🕙 03:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -724,7 +533,7 @@ Time
 &lt;a href=&#34;../../../slides/bookdown.html#yourturn3&#34; style=&#34;     &#34;&gt;📤 Your turn #3: Add/edit chapters in your book&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕗 10:00 minutes
+🕙 10:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -732,7 +541,7 @@ Time
 &lt;a href=&#34;../../../slides/bookdown.html#yourturn4&#34; style=&#34;     &#34;&gt;📤 Your turn #4: Change how your sidebar TOC looks &amp;amp; works&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕗 05:00 minutes
+🕙 05:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -740,7 +549,7 @@ Time
 &lt;a href=&#34;../../../slides/bookdown.html#yourturn5&#34; style=&#34;     &#34;&gt;📤 Your turn #5: Tune the book output &amp;amp; publish&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕗 15:00 minutes
+🕙 15:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -750,11 +559,11 @@ Time
     </item>
     
     <item>
-      <title>Assignments Day 2</title>
-      <link>/days/day2/assignmentsd2_2/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <title>Assignments Day 5</title>
+      <link>/days/day5/assignmentsd5_1/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/days/day2/assignmentsd2_2/</guid>
+      <guid>/days/day5/assignmentsd5_1/</guid>
       <description>
 &lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
@@ -781,7 +590,7 @@ Key Slides
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#outline&#34; style=&#34;     &#34;&gt;Outline 🗒&lt;/a&gt;
+&lt;a href=&#34;../../../slides/bookdown.html#outline&#34; style=&#34;     &#34;&gt;Outline 🗓&lt;/a&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -816,7 +625,7 @@ Time
 &lt;a href=&#34;../../../slides/bookdown.html#yourturn1&#34; style=&#34;     &#34;&gt;📩 Your turn #1: Edit your index.Rmd YAML&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕞 03:00 minutes
+⏰ 03:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -824,7 +633,7 @@ Time
 &lt;a href=&#34;../../../slides/bookdown.html#yourturn2&#34; style=&#34;     &#34;&gt;📩 Your turn #2: Add new YAML metadata tags to your index.Rmd&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕞 03:00 minutes
+⏰ 03:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -832,7 +641,7 @@ Time
 &lt;a href=&#34;../../../slides/bookdown.html#yourturn3&#34; style=&#34;     &#34;&gt;📩 Your turn #3: Add/edit chapters in your book&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕞 10:00 minutes
+⏰ 10:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -840,7 +649,7 @@ Time
 &lt;a href=&#34;../../../slides/bookdown.html#yourturn4&#34; style=&#34;     &#34;&gt;📩 Your turn #4: Change how your sidebar TOC looks &amp;amp; works&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕞 05:00 minutes
+⏰ 05:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -848,7 +657,7 @@ Time
 &lt;a href=&#34;../../../slides/bookdown.html#yourturn5&#34; style=&#34;     &#34;&gt;📩 Your turn #5: Tune the book output &amp;amp; publish&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕞 15:00 minutes
+⏰ 15:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -858,9 +667,34 @@ Time
     </item>
     
     <item>
+      <title>Assignments Day 2</title>
+      <link>/days/day2/assignmentsd2_2/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/days/day2/assignmentsd2_2/</guid>
+      <description>
+
+&lt;div id=&#34;TOC&#34;&gt;
+true
+&lt;/div&gt;
+
+&lt;div id=&#34;slides&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Slides&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;Download slides&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;activity&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Assignments&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://darwin.pwo.ru.nl/skunkworks/courseware/1819_CMBS/assignments/ASSIGNMENTS_D2_scaling.html&#34;&gt;Scaling and fluctuation analyses&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Assignments Day 3</title>
       <link>/days/day3/assignmentsd3_2/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/days/day3/assignmentsd3_2/</guid>
       <description>
@@ -921,42 +755,42 @@ Time
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn1&#34; style=&#34;     &#34;&gt;📤 Your turn #1: Edit your index.Rmd YAML&lt;/a&gt;
+&lt;a href=&#34;../../../slides/bookdown.html#yourturn1&#34; style=&#34;     &#34;&gt;📩 Your turn #1: Edit your index.Rmd YAML&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕖 03:00 minutes
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn2&#34; style=&#34;     &#34;&gt;📤 Your turn #2: Add new YAML metadata tags to your index.Rmd&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-🕖 03:00 minutes
+🕘 03:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn3&#34; style=&#34;     &#34;&gt;📤 Your turn #3: Add/edit chapters in your book&lt;/a&gt;
+&lt;a href=&#34;../../../slides/bookdown.html#yourturn2&#34; style=&#34;     &#34;&gt;📩 Your turn #2: Add new YAML metadata tags to your index.Rmd&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕖 10:00 minutes
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn4&#34; style=&#34;     &#34;&gt;📤 Your turn #4: Change how your sidebar TOC looks &amp;amp; works&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-🕖 05:00 minutes
+🕘 03:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn5&#34; style=&#34;     &#34;&gt;📤 Your turn #5: Tune the book output &amp;amp; publish&lt;/a&gt;
+&lt;a href=&#34;../../../slides/bookdown.html#yourturn3&#34; style=&#34;     &#34;&gt;📩 Your turn #3: Add/edit chapters in your book&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕖 15:00 minutes
+🕘 10:00 minutes
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;../../../slides/bookdown.html#yourturn4&#34; style=&#34;     &#34;&gt;📩 Your turn #4: Change how your sidebar TOC looks &amp;amp; works&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+🕘 05:00 minutes
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;../../../slides/bookdown.html#yourturn5&#34; style=&#34;     &#34;&gt;📩 Your turn #5: Tune the book output &amp;amp; publish&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+🕘 15:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -968,7 +802,7 @@ Time
     <item>
       <title>Assignments Day 4</title>
       <link>/days/day4/assignmentsd4_2/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/days/day4/assignmentsd4_2/</guid>
       <description>
@@ -997,7 +831,7 @@ Key Slides
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#outline&#34; style=&#34;     &#34;&gt;Outline 🗓&lt;/a&gt;
+&lt;a href=&#34;../../../slides/bookdown.html#outline&#34; style=&#34;     &#34;&gt;Outline 🗒&lt;/a&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1029,42 +863,42 @@ Time
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn1&#34; style=&#34;     &#34;&gt;📤 Your turn #1: Edit your index.Rmd YAML&lt;/a&gt;
+&lt;a href=&#34;../../../slides/bookdown.html#yourturn1&#34; style=&#34;     &#34;&gt;📩 Your turn #1: Edit your index.Rmd YAML&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕡 03:00 minutes
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn2&#34; style=&#34;     &#34;&gt;📤 Your turn #2: Add new YAML metadata tags to your index.Rmd&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-🕡 03:00 minutes
+🕘 03:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn3&#34; style=&#34;     &#34;&gt;📤 Your turn #3: Add/edit chapters in your book&lt;/a&gt;
+&lt;a href=&#34;../../../slides/bookdown.html#yourturn2&#34; style=&#34;     &#34;&gt;📩 Your turn #2: Add new YAML metadata tags to your index.Rmd&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕡 10:00 minutes
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn4&#34; style=&#34;     &#34;&gt;📤 Your turn #4: Change how your sidebar TOC looks &amp;amp; works&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-🕡 05:00 minutes
+🕘 03:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn5&#34; style=&#34;     &#34;&gt;📤 Your turn #5: Tune the book output &amp;amp; publish&lt;/a&gt;
+&lt;a href=&#34;../../../slides/bookdown.html#yourturn3&#34; style=&#34;     &#34;&gt;📩 Your turn #3: Add/edit chapters in your book&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕡 15:00 minutes
+🕘 10:00 minutes
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;../../../slides/bookdown.html#yourturn4&#34; style=&#34;     &#34;&gt;📩 Your turn #4: Change how your sidebar TOC looks &amp;amp; works&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+🕘 05:00 minutes
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;../../../slides/bookdown.html#yourturn5&#34; style=&#34;     &#34;&gt;📩 Your turn #5: Tune the book output &amp;amp; publish&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+🕘 15:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -1076,7 +910,7 @@ Time
     <item>
       <title>Assignments Day 5</title>
       <link>/days/day5/assignmentsd5_2/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/days/day5/assignmentsd5_2/</guid>
       <description>
@@ -1140,7 +974,7 @@ Time
 &lt;a href=&#34;../../../slides/bookdown.html#yourturn1&#34; style=&#34;     &#34;&gt;📩 Your turn #1: Edit your index.Rmd YAML&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-⏲ 03:00 minutes
+🕘 03:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1148,7 +982,7 @@ Time
 &lt;a href=&#34;../../../slides/bookdown.html#yourturn2&#34; style=&#34;     &#34;&gt;📩 Your turn #2: Add new YAML metadata tags to your index.Rmd&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-⏲ 03:00 minutes
+🕘 03:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1156,7 +990,7 @@ Time
 &lt;a href=&#34;../../../slides/bookdown.html#yourturn3&#34; style=&#34;     &#34;&gt;📩 Your turn #3: Add/edit chapters in your book&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-⏲ 10:00 minutes
+🕘 10:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1164,7 +998,7 @@ Time
 &lt;a href=&#34;../../../slides/bookdown.html#yourturn4&#34; style=&#34;     &#34;&gt;📩 Your turn #4: Change how your sidebar TOC looks &amp;amp; works&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-⏲ 05:00 minutes
+🕘 05:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1172,7 +1006,7 @@ Time
 &lt;a href=&#34;../../../slides/bookdown.html#yourturn5&#34; style=&#34;     &#34;&gt;📩 Your turn #5: Tune the book output &amp;amp; publish&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-⏲ 15:00 minutes
+🕘 15:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -1184,7 +1018,7 @@ Time
     <item>
       <title>Detecting (nonlinear) structure in time series</title>
       <link>/days/day2/lectured2_1/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/days/day2/lectured2_1/</guid>
       <description>
