@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Alan variance</title>
-      <link>https://complexity-methods.github.io/tags/alan-variance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexity-methods.github.io/tags/alan-variance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Attractors</title>
       <link>https://complexity-methods.github.io/tags/attractors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -53,15 +44,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://complexity-methods.github.io/tags/client-therapist/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clustering</title>
-      <link>https://complexity-methods.github.io/tags/clustering/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexity-methods.github.io/tags/clustering/</guid>
       <description></description>
     </item>
     
@@ -323,6 +305,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://complexity-methods.github.io/tags/self-organization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral Slope</title>
+      <link>https://complexity-methods.github.io/tags/spectral-slope/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://complexity-methods.github.io/tags/spectral-slope/</guid>
       <description></description>
     </item>
     
