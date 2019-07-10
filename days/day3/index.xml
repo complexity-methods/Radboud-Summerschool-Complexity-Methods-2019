@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 09 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://complexity-methods.github.io/days/day3/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,36 +15,34 @@
     <item>
       <title>Assignments Day 3</title>
       <link>https://complexity-methods.github.io/days/day3/assignmentsd3_1/</link>
-      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://complexity-methods.github.io/days/day3/assignmentsd3_1/</guid>
-      <description>Slides Download slide .Rmd
-  Key Slides      Full slide deck 🖼    Outline 🗒    Get started ☁️ or 💻    Publishing 🚀     Activities   Activity  Time      📤 Your turn #1: Edit your index.Rmd YAML  🕒 03:00 minutes    📤 Your turn #2: Add new YAML metadata tags to your index.</description>
+      <description> Assignments Catgegorical Auto-RQA </description>
     </item>
     
     <item>
       <title>Assignments Day 3</title>
       <link>https://complexity-methods.github.io/days/day3/assignmentsd3_2/</link>
-      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://complexity-methods.github.io/days/day3/assignmentsd3_2/</guid>
-      <description>Slides Download slide .Rmd
-  Key Slides      Full slide deck 🖼    Outline 🗓    Get started ☁️ or 💻    Publishing 🚀     Activities   Activity  Time      📤 Your turn #1: Edit your index.Rmd YAML  🕕 03:00 minutes    📤 Your turn #2: Add new YAML metadata tags to your index.</description>
+      <description> Assignments Catgegorical Auto-RQA </description>
     </item>
     
     <item>
       <title>Quantifying temporal patterns in unordered categorical time series data</title>
       <link>https://complexity-methods.github.io/days/day3/lectured3_1/</link>
-      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://complexity-methods.github.io/days/day3/lectured3_1/</guid>
-      <description> Slides </description>
+      <description> Slides Download slides as PDF View slides as HTML Literature Dig deeper </description>
     </item>
     
     <item>
       <title>Quantifying dependencies across multiple scales</title>
       <link>https://complexity-methods.github.io/days/day3/lectured3_3/</link>
-      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://complexity-methods.github.io/days/day3/lectured3_3/</guid>
       <description> Slides Download slide .Rmd
@@ -54,7 +52,7 @@ Activities </description>
     <item>
       <title>Quantifying temporal patterns in continuous time series data</title>
       <link>https://complexity-methods.github.io/days/day3/lectured3_2/</link>
-      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://complexity-methods.github.io/days/day3/lectured3_2/</guid>
       <description> Slides Download slide .Rmd
