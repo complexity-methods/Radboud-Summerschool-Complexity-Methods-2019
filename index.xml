@@ -501,7 +501,7 @@ Time
 &lt;a href=&#34;../../../slides/bookdown.html#yourturn1&#34; style=&#34;     &#34;&gt;📩 Your turn #1: Edit your index.Rmd YAML&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕖 03:00 minutes
+🕜 03:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -509,7 +509,7 @@ Time
 &lt;a href=&#34;../../../slides/bookdown.html#yourturn2&#34; style=&#34;     &#34;&gt;📩 Your turn #2: Add new YAML metadata tags to your index.Rmd&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕖 03:00 minutes
+🕜 03:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -517,7 +517,7 @@ Time
 &lt;a href=&#34;../../../slides/bookdown.html#yourturn3&#34; style=&#34;     &#34;&gt;📩 Your turn #3: Add/edit chapters in your book&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕖 10:00 minutes
+🕜 10:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -525,7 +525,7 @@ Time
 &lt;a href=&#34;../../../slides/bookdown.html#yourturn4&#34; style=&#34;     &#34;&gt;📩 Your turn #4: Change how your sidebar TOC looks &amp;amp; works&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕖 05:00 minutes
+🕜 05:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -533,7 +533,7 @@ Time
 &lt;a href=&#34;../../../slides/bookdown.html#yourturn5&#34; style=&#34;     &#34;&gt;📩 Your turn #5: Tune the book output &amp;amp; publish&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕖 15:00 minutes
+🕜 15:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -602,7 +602,7 @@ Key Slides
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#outline&#34; style=&#34;     &#34;&gt;Outline 🗒&lt;/a&gt;
+&lt;a href=&#34;../../../slides/bookdown.html#outline&#34; style=&#34;     &#34;&gt;Outline 🗓&lt;/a&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -634,42 +634,42 @@ Time
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn1&#34; style=&#34;     &#34;&gt;📤 Your turn #1: Edit your index.Rmd YAML&lt;/a&gt;
+&lt;a href=&#34;../../../slides/bookdown.html#yourturn1&#34; style=&#34;     &#34;&gt;📩 Your turn #1: Edit your index.Rmd YAML&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕘 03:00 minutes
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn2&#34; style=&#34;     &#34;&gt;📤 Your turn #2: Add new YAML metadata tags to your index.Rmd&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-🕘 03:00 minutes
+🕔 03:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn3&#34; style=&#34;     &#34;&gt;📤 Your turn #3: Add/edit chapters in your book&lt;/a&gt;
+&lt;a href=&#34;../../../slides/bookdown.html#yourturn2&#34; style=&#34;     &#34;&gt;📩 Your turn #2: Add new YAML metadata tags to your index.Rmd&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕘 10:00 minutes
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn4&#34; style=&#34;     &#34;&gt;📤 Your turn #4: Change how your sidebar TOC looks &amp;amp; works&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-🕘 05:00 minutes
+🕔 03:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn5&#34; style=&#34;     &#34;&gt;📤 Your turn #5: Tune the book output &amp;amp; publish&lt;/a&gt;
+&lt;a href=&#34;../../../slides/bookdown.html#yourturn3&#34; style=&#34;     &#34;&gt;📩 Your turn #3: Add/edit chapters in your book&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-🕘 15:00 minutes
+🕔 10:00 minutes
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;../../../slides/bookdown.html#yourturn4&#34; style=&#34;     &#34;&gt;📩 Your turn #4: Change how your sidebar TOC looks &amp;amp; works&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+🕔 05:00 minutes
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+&lt;a href=&#34;../../../slides/bookdown.html#yourturn5&#34; style=&#34;     &#34;&gt;📩 Your turn #5: Tune the book output &amp;amp; publish&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+🕔 15:00 minutes
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -710,7 +710,7 @@ Key Slides
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#outline&#34; style=&#34;     &#34;&gt;Outline 🗓&lt;/a&gt;
+&lt;a href=&#34;../../../slides/bookdown.html#outline&#34; style=&#34;     &#34;&gt;Outline 🗒&lt;/a&gt;
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
