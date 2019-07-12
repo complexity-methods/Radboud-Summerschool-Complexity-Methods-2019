@@ -6,13 +6,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 11 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Introduction to the Course</title>
       <link>https://complexity-methods.github.io/days/day1/lectured1_0/</link>
-      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://complexity-methods.github.io/days/day1/lectured1_0/</guid>
       <description>
@@ -210,7 +210,7 @@
     <item>
       <title>Introduction to Complexity Science</title>
       <link>https://complexity-methods.github.io/days/day1/lectured1_1/</link>
-      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://complexity-methods.github.io/days/day1/lectured1_1/</guid>
       <description>
@@ -362,7 +362,7 @@ Isabela Granic&lt;/p&gt;
     <item>
       <title>Assignments Mathemathics of Change</title>
       <link>https://complexity-methods.github.io/days/day1/assignmentsd1_1/</link>
-      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://complexity-methods.github.io/days/day1/assignmentsd1_1/</guid>
       <description>
@@ -386,7 +386,7 @@ Isabela Granic&lt;/p&gt;
     <item>
       <title>Assignments Day 2</title>
       <link>https://complexity-methods.github.io/days/day2/assignmentsd2_1/</link>
-      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://complexity-methods.github.io/days/day2/assignmentsd2_1/</guid>
       <description>
@@ -404,7 +404,7 @@ Isabela Granic&lt;/p&gt;
     <item>
       <title>Assignments Day 3</title>
       <link>https://complexity-methods.github.io/days/day3/assignmentsd3_1/</link>
-      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://complexity-methods.github.io/days/day3/assignmentsd3_1/</guid>
       <description>
@@ -418,7 +418,7 @@ Isabela Granic&lt;/p&gt;
     <item>
       <title>Assignments Day 4</title>
       <link>https://complexity-methods.github.io/days/day4/assignmentsd4_1/</link>
-      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://complexity-methods.github.io/days/day4/assignmentsd4_1/</guid>
       <description>
@@ -435,117 +435,9 @@ true
     </item>
     
     <item>
-      <title>Assignments Day 5</title>
-      <link>https://complexity-methods.github.io/days/day5/assignmentsd5_1/</link>
-      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexity-methods.github.io/days/day5/assignmentsd5_1/</guid>
-      <description>
-&lt;script src=&#34;https://complexity-methods.github.io/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
-
-&lt;div id=&#34;TOC&#34;&gt;
-true
-&lt;/div&gt;
-
-&lt;div id=&#34;slides&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Slides&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;../../../slides/bookdown.Rmd&#34;&gt;Download slide .Rmd&lt;/a&gt;&lt;/p&gt;
-&lt;table class=&#34;table table-hover table-condensed&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:left;&#34;&gt;
-Key Slides
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#1&#34; style=&#34;     &#34;&gt;Full slide deck 🖼&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#outline&#34; style=&#34;     &#34;&gt;Outline 🗓&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#start&#34; style=&#34;     &#34;&gt;Get started ☁️ or 💻&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#publish&#34; style=&#34;     &#34;&gt;Publishing 🚀&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-&lt;div id=&#34;activity&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Activities&lt;/h2&gt;
-&lt;table class=&#34;table table-hover table-condensed&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:left;&#34;&gt;
-Activity
-&lt;/th&gt;
-&lt;th style=&#34;text-align:left;&#34;&gt;
-Time
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn1&#34; style=&#34;     &#34;&gt;📩 Your turn #1: Edit your index.Rmd YAML&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-🕝 03:00 minutes
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn2&#34; style=&#34;     &#34;&gt;📩 Your turn #2: Add new YAML metadata tags to your index.Rmd&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-🕝 03:00 minutes
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn3&#34; style=&#34;     &#34;&gt;📩 Your turn #3: Add/edit chapters in your book&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-🕝 10:00 minutes
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn4&#34; style=&#34;     &#34;&gt;📩 Your turn #4: Change how your sidebar TOC looks &amp;amp; works&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-🕝 05:00 minutes
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn5&#34; style=&#34;     &#34;&gt;📩 Your turn #5: Tune the book output &amp;amp; publish&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-🕝 15:00 minutes
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Assignments Day 2</title>
       <link>https://complexity-methods.github.io/days/day2/assignmentsd2_2/</link>
-      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://complexity-methods.github.io/days/day2/assignmentsd2_2/</guid>
       <description>
@@ -559,7 +451,7 @@ Time
     <item>
       <title>Assignments Day 3</title>
       <link>https://complexity-methods.github.io/days/day3/assignmentsd3_2/</link>
-      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://complexity-methods.github.io/days/day3/assignmentsd3_2/</guid>
       <description>
@@ -573,7 +465,7 @@ Time
     <item>
       <title>Assignments Day 4</title>
       <link>https://complexity-methods.github.io/days/day4/assignmentsd4_2/</link>
-      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://complexity-methods.github.io/days/day4/assignmentsd4_2/</guid>
       <description>
@@ -591,108 +483,21 @@ true
     
     <item>
       <title>Assignments Day 5</title>
-      <link>https://complexity-methods.github.io/days/day5/assignmentsd5_2/</link>
-      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      <link>https://complexity-methods.github.io/days/day5/assignmentsd5_1/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://complexity-methods.github.io/days/day5/assignmentsd5_2/</guid>
+      <guid>https://complexity-methods.github.io/days/day5/assignmentsd5_1/</guid>
       <description>
-&lt;script src=&#34;https://complexity-methods.github.io/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
 &lt;div id=&#34;TOC&#34;&gt;
 true
 &lt;/div&gt;
 
-&lt;div id=&#34;slides&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Slides&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;../../../slides/bookdown.Rmd&#34;&gt;Download slide .Rmd&lt;/a&gt;&lt;/p&gt;
-&lt;table class=&#34;table table-hover table-condensed&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:left;&#34;&gt;
-Key Slides
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#1&#34; style=&#34;     &#34;&gt;Full slide deck 🖼&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#outline&#34; style=&#34;     &#34;&gt;Outline 🗒&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#start&#34; style=&#34;     &#34;&gt;Get started ☁️ or 💻&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#publish&#34; style=&#34;     &#34;&gt;Publishing 🚀&lt;/a&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+&lt;div id=&#34;assignments&#34; class=&#34;section level2 unnumbered&#34;&gt;
+&lt;h2&gt;Assignments&lt;/h2&gt;
 &lt;/div&gt;
-&lt;div id=&#34;activity&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Activities&lt;/h2&gt;
-&lt;table class=&#34;table table-hover table-condensed&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:left;&#34;&gt;
-Activity
-&lt;/th&gt;
-&lt;th style=&#34;text-align:left;&#34;&gt;
-Time
-&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn1&#34; style=&#34;     &#34;&gt;📤 Your turn #1: Edit your index.Rmd YAML&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-🕔 03:00 minutes
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn2&#34; style=&#34;     &#34;&gt;📤 Your turn #2: Add new YAML metadata tags to your index.Rmd&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-🕔 03:00 minutes
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn3&#34; style=&#34;     &#34;&gt;📤 Your turn #3: Add/edit chapters in your book&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-🕔 10:00 minutes
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn4&#34; style=&#34;     &#34;&gt;📤 Your turn #4: Change how your sidebar TOC looks &amp;amp; works&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-🕔 05:00 minutes
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-&lt;a href=&#34;../../../slides/bookdown.html#yourturn5&#34; style=&#34;     &#34;&gt;📤 Your turn #5: Tune the book output &amp;amp; publish&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:left;&#34;&gt;
-🕔 15:00 minutes
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+&lt;div id=&#34;dynamic-complexity&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;&lt;a href=&#34;https://darwin.pwo.ru.nl/skunkworks/courseware/1819_CMBS/assignments/ASSIGNMENTS_D5_DC.html&#34;&gt;Dynamic Complexity&lt;/a&gt;&lt;/h2&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -700,7 +505,7 @@ Time
     <item>
       <title>Detecting (nonlinear) structure in time series</title>
       <link>https://complexity-methods.github.io/days/day2/lectured2_1/</link>
-      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://complexity-methods.github.io/days/day2/lectured2_1/</guid>
       <description>
@@ -723,6 +528,28 @@ Time
 
 &lt;ul&gt;
 &lt;li&gt;The 3blue1down video &lt;a href=&#34;https://complexity-methods.github.io/prework/rec_station/#fractals-and-scaling&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Fractals and Scaling&amp;rdquo;&lt;/a&gt; has some great animations of the box-counting domension.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantifying the interaction dynamics of coupled systems</title>
+      <link>https://complexity-methods.github.io/days/day4/lectured4_1/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://complexity-methods.github.io/days/day4/lectured4_1/</guid>
+      <description>
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;h2 id=&#34;download-slides-as-pdf-slides-cmbs1819-day4-crqa-pdf&#34;&gt;&lt;a href=&#34;https://complexity-methods.github.io/slides/CMBS1819_day4_CRQA.pdf&#34;&gt;Download slides as PDF&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;view-slides-as-html-slides-cmbs1819-day4-crqa-index-html&#34;&gt;&lt;a href=&#34;https://complexity-methods.github.io/slides/CMBS1819_day4_CRQA/index.html&#34;&gt;View slides as HTML&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;literature&#34;&gt;Literature&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Chapter 4 of the book &lt;a href=&#34;https://www.nsf.gov/pubs/2005/nsf05057/nmbs/nmbs.pdf&#34; target=&#34;_blank&#34;&gt;Tutorials in Contemporary Nonlinear Methods for Behavioural Science&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

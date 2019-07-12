@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Thu, 11 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://complexity-methods.github.io/days/day1/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Introduction to the Course</title>
       <link>https://complexity-methods.github.io/days/day1/lectured1_0/</link>
-      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://complexity-methods.github.io/days/day1/lectured1_0/</guid>
       <description>About the course  Course site: https://complexity-methods.github.io
@@ -27,7 +27,7 @@
     <item>
       <title>Introduction to Complexity Science</title>
       <link>https://complexity-methods.github.io/days/day1/lectured1_1/</link>
-      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://complexity-methods.github.io/days/day1/lectured1_1/</guid>
       <description> Slides [Download slide]()
@@ -37,7 +37,7 @@ Literature  Chapter II of Thelen &amp;amp; Ulrich (1991) provides a great overvi
     <item>
       <title>Assignments Mathemathics of Change</title>
       <link>https://complexity-methods.github.io/days/day1/assignmentsd1_1/</link>
-      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://complexity-methods.github.io/days/day1/assignmentsd1_1/</guid>
       <description> Slides EXTRA: Slides on coupled systems EXTRA: Slides on fitting parameters Assignments Growth models and deterministic chaos EXTRA: Coupled systems EXTRA: Fitting parameters to analytic solutions of growth models </description>
@@ -46,7 +46,7 @@ Literature  Chapter II of Thelen &amp;amp; Ulrich (1991) provides a great overvi
     <item>
       <title>Introduction to the Mathematics of Change</title>
       <link>https://complexity-methods.github.io/days/day1/lectured1_2/</link>
-      <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://complexity-methods.github.io/days/day1/lectured1_2/</guid>
       <description>Slides Download slides as PDF View slides as HTML Literature  Chapter 3 of the course book explains some of the basics of difference and differential equations and how to simulate them.
