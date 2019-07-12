@@ -13,22 +13,12 @@
     
     
     <item>
-      <title>Assignments Day 5</title>
-      <link>https://complexity-methods.github.io/days/day5/assignmentsd5_1/</link>
+      <title>Introduction to Idiographic Methods</title>
+      <link>https://complexity-methods.github.io/days/day5/lectured5_1/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://complexity-methods.github.io/days/day5/assignmentsd5_1/</guid>
-      <description> true  Assignments  Dynamic Complexity  </description>
-    </item>
-    
-    <item>
-      <title>Chromatic and Anisotropic RQA</title>
-      <link>https://complexity-methods.github.io/days/day5/lectured5_3/</link>
-      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexity-methods.github.io/days/day5/lectured5_3/</guid>
-      <description>Guest lecture Lisette de Jonge-Hoekstra 
-Slides Download slides</description>
+      <guid>https://complexity-methods.github.io/days/day5/lectured5_1/</guid>
+      <description>Slides Download slides</description>
     </item>
     
     <item>
@@ -42,12 +32,13 @@ Slides Download slide</description>
     </item>
     
     <item>
-      <title>Introduction to Idiographic Methods</title>
-      <link>https://complexity-methods.github.io/days/day5/lectured5_1/</link>
+      <title>Chromatic and Anisotropic RQA</title>
+      <link>https://complexity-methods.github.io/days/day5/lectured5_3/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://complexity-methods.github.io/days/day5/lectured5_1/</guid>
-      <description>Slides Download slides</description>
+      <guid>https://complexity-methods.github.io/days/day5/lectured5_3/</guid>
+      <description>Guest lecture Lisette de Jonge-Hoekstra 
+Slides Download slides</description>
     </item>
     
     <item>
@@ -57,6 +48,15 @@ Slides Download slide</description>
       
       <guid>https://complexity-methods.github.io/days/day5/lectured5_4/</guid>
       <description>Slides Download slides</description>
+    </item>
+    
+    <item>
+      <title>Assignments Day 5</title>
+      <link>https://complexity-methods.github.io/days/day5/assignmentsd5_1/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://complexity-methods.github.io/days/day5/assignmentsd5_1/</guid>
+      <description> true  Assignments  Dynamic Complexity  </description>
     </item>
     
   </channel>
